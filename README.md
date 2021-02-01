@@ -8,7 +8,7 @@ Video Google drive links
 
 1. Mobile version (with audio) -       https://drive.google.com/file/d/1HDcjcjQN3u9NUGtd7Uz9bKAKIpsgfsMg/view?usp=drivesdk 
 2. Desktop version (without audio) -   https://drive.google.com/file/d/1GyPnUm3qA4HBFTTB91sWIKwoC9tFQQoG/view?usp=drivesdk
-[+] Sorry I dont have mike to record audio in my system please accept my apology
+Sorry I dont have mike to record audio in my system please accept my apology
 
 
    
